@@ -14,7 +14,6 @@ describe("NodeUII自动化测试脚本",function(){
                 .expect('Content-Type', /json/)
                 .expect(200)
                 .end(function(err, response) {
-                    console.log("111111111111111:"+ response.body.data);
                     if(response.body.data === "Hello home") {
                         done();
                     } else {
