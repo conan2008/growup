@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{% block title %}{% block title %}</title>
-    {% block head %}{% block title %}
+    <title>{% block title %}{% endblock %}</title>
+    {% block head %}{% endblock %}
 </head>
 <body>
-    {% block content %}{% block title %}
-    {% block scripts %}{% block title %}
+    {% block content %}{% endblock %}
+    {% block scripts %}{% endblock %}
 </body>
 </html>

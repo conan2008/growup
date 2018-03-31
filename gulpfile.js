@@ -18,7 +18,7 @@ gulp.task('build:dev', () => {
                     'transform-es2015-modules-commonjs'
                 ]
             }))
-            .pipe(gulp.dest('build'));
+            .pipe(gulp.dest('dist'));
     })
 });
 
@@ -31,7 +31,7 @@ gulp.task('build:prod', () => {
                 'transform-es2015-modules-commonjs'
             ]
         }))
-        .pipe(gulp.dest('build'));
+        .pipe(gulp.dest('dist'));
 });
 
 gulp.task('build:config', () => {
@@ -48,7 +48,7 @@ gulp.task('build:config', () => {
                 })
             ]
         }))
-        .pipe(gulp.dest('build'));
+        .pipe(gulp.dest('dist'));
 })
 
 

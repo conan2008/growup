@@ -10,7 +10,7 @@ const { asClass, asValue, createContainer, Lifetime} = require('awilix');
 const { loadControllers, scopePerRequest } = require('awilix-koa');
 
 log4js.configure({
-    appenders: { cheese: { type: 'file', filename: 'build/log/zy.log' } },
+    appenders: { cheese: { type: 'file', filename: 'dist/log/growup.log' } },
     categories: { default: { appenders: ['cheese'], level: 'info' } }
 });
 
@@ -20,18 +20,24 @@ const app = new Koa();
 
 const container = createContainer();
 app.use(scopePerRequest(container));
-
+/**
+ * 注册controller
+ */
 app.use(loadControllers('controller/*.js', { cwd: __dirname }));
-
-container.loadModules(['service/*.js'], {
+/**
+ * 注册service
+ */
+container.loadModules([__dirname + '/service/*.js'], {
     formatName: 'camelCase',
     resolverOptions: {
       lifetime: Lifetime.SCOPED
     }
-  })
-
-  console.dir(container);
-
+  });
+  
+/**
+ * 配置静态资源
+ */
+app.use(serve(config.staticDir));
 /**
  * 配置swig模板
  */
@@ -42,18 +48,6 @@ app.context.render = co.wrap(render({
     ext: 'html',
     writeBody: false
 }));
-
-/**
- * 配置静态资源
- */
-app.use(serve(config.staticDir));
-
-/**
- * 加载路由
- */
-// app.use(mainController.init().routes());
-
-
 
 errorHandle.error(app, logger);
 

@@ -3,14 +3,16 @@ const glob = require('glob');
 const merge = require('webpack-merge');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
-const MyPlugin = require('./myplugin');
+const htmlAfterWebpackPlugin = require('./config/html-after-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const { join } = require("path");
+const del = require('del');
+
+//打包前删除打包目录
+del.sync([`${__dirname}/dist`]);
 
 let files = glob.sync(__dirname + "/src/webapp/views/**/*.entry.js");
 const webpackConfig = require(__dirname + `/config/webpack.${argv.mode}.js`);
-
-console.log(webpackConfig);
 
 let _entry = {};
 
@@ -46,15 +48,19 @@ let _webpackConfig = {
     },
     plugins: [
         new CopyWebpackPlugin([{
-            from: "/src/webapp/views/common/**/*.js",
+            from: "./src/webapp/views/common",
             to: "../views/common"
+        },{
+            from: "./src/webapp/widgets/**/*.html",
+            to: "../widgets/[name]/[name].html",
+            toType: 'template'
         }]),
         new HtmlWebpackPlugin({
-            filename: "../views/hello/pages/index.html",
-            template: "./src/webapp/views/hello/pages/index.html",
+            filename: "../views/users/pages/index.html",
+            template: "./src/webapp/views/users/pages/index.html",
             inject: false
         }),
-        new MyPlugin()
+        new htmlAfterWebpackPlugin()
     ]
 }
 

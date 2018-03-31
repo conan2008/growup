@@ -2,8 +2,7 @@ import path from 'path';
 
 let config = {
     staticDir: path.join(__dirname, "..", "assets"),
-    viewDir: path.join(__dirname, "..", "view"),
-    port: 8081,
+    viewDir: path.join(__dirname, "..", "views"),
     env: process.env.NODE_ENV //development, production
 }
 
