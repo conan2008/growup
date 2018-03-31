@@ -6,17 +6,14 @@ Object.defineProperty(exports, "__esModule", {
 
 var _dns = require("dns");
 
-class Index {
-  constructor() {}
-
-  getData() {
+let UserService = class UserService {
+  getData(id) {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
-        resolve("Hello action&model!");
+        resolve(`Hello UserAction ${id}`);
       }, 1000);
     });
   }
 
-}
-
-exports.default = Index;
+};
+exports.default = UserService;

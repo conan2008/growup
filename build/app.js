@@ -28,11 +28,19 @@ var _errorHandle = require("./middlewares/errorHandle");
 
 var _errorHandle2 = _interopRequireDefault(_errorHandle);
 
-var _main = require("./controller/main");
-
-var _main2 = _interopRequireDefault(_main);
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+const {
+  asClass,
+  asValue,
+  createContainer,
+  Lifetime
+} = require('awilix');
+
+const {
+  loadControllers,
+  scopePerRequest
+} = require('awilix-koa');
 
 _log4js2.default.configure({
   appenders: {
@@ -52,6 +60,18 @@ _log4js2.default.configure({
 const logger = _log4js2.default.getLogger('cheese');
 
 const app = new _koa2.default();
+const container = createContainer();
+app.use(scopePerRequest(container));
+app.use(loadControllers('controller/*.js', {
+  cwd: __dirname
+}));
+container.loadModules(['service/*.js'], {
+  formatName: 'camelCase',
+  resolverOptions: {
+    lifetime: Lifetime.SCOPED
+  }
+});
+console.dir(container);
 /**
  * 配置swig模板
  */
@@ -72,8 +92,7 @@ app.use((0, _koaStatic2.default)(_config2.default.staticDir));
 /**
  * 加载路由
  */
-
-app.use(_main2.default.init().routes());
+// app.use(mainController.init().routes());
 
 _errorHandle2.default.error(app, logger);
 
