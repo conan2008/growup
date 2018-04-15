@@ -41,6 +41,30 @@ let _webpackConfig = {
             })
         }]
     },
+    optimization: {
+        //原CommonsChunkPlugin配置
+        splitChunks: {
+            cacheGroups: {
+                common: {
+                    //test: resolve(__dirname, "node_modules"), // 路径在 node_modules 目录下的都作为公共部分
+                    chunks: 'all',
+                    // test: /\.(js)$/,
+                    name: 'common',
+                     minChunks: 2
+                },
+                // styles: {
+                //     name: 'styles',
+                //     test: /\.(scss|css)$/,
+                //     chunks: 'all',
+                //     minChunks: 2,
+                //     reuseExistingChunk: true,
+                //     enforce: true
+                // }
+
+            }
+        },
+        runtimeChunk: { name: 'runtime' }
+    },
     output: {
         path: join(__dirname, './dist/assets'),
         publicPath: "/",
@@ -51,13 +75,20 @@ let _webpackConfig = {
             from: "./src/webapp/views/common",
             to: "../views/common"
         },{
-            from: "./src/webapp/widgets/**/*.html",
+            from: "./src/webapp/widgets/**/*.html",//如果直接加**/* 会拷贝全目录
             to: "../widgets/[name]/[name].html",
             toType: 'template'
         }]),
         new HtmlWebpackPlugin({
             filename: "../views/users/pages/index.html",
             template: "./src/webapp/views/users/pages/index.html",
+            chunks: ["users-index", "common"],
+            inject: false
+        }),
+        new HtmlWebpackPlugin({
+            filename: "../views/hello/pages/index.html",
+            template: "./src/webapp/views/hello/pages/index.html",
+            chunks: ["hello-index", "common"],
             inject: false
         }),
         new htmlAfterWebpackPlugin()
