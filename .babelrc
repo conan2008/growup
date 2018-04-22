@@ -1,9 +1,7 @@
 {
     "presets": [
-        ["env", {
-            "modules": false
-        }]
+        ["es2015", { "modules": false }], "stage-0"
     ],
-    "plugins": ["syntax-dynamic-import"], 
-    "comments": true
+    "plugins": ["transform-runtime", "babel-polyfill"],
+    "ignore": ["./node_modules/*","./src/nodeuii/*"]
 }

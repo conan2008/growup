@@ -13,7 +13,8 @@ class UserController {
     async getUser(ctx, next) {
         console.log(123);
         let result = await this.userService.getData(ctx.params.id);
-        ctx.body = await ctx.render('./users/pages/index', { data: result });
+        // ctx.body = await ctx.render('./users/pages/index', { data: result });
+        ctx.body = result;
     }
 }
 
