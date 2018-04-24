@@ -1,17 +1,30 @@
+/**
+ * 这里是官网的代码，基本没动
+ */
 import { createApp } from './app.js'
+/**
+ * 我的理解 不知道是不是正确
+ * indexController 里createRenderer(serverBundle, $.html(), clientManifest);调用到了这里
+ */
 export default context => {
   return new Promise((resolve, reject) => {
     const { app, router, store } = createApp()
+
+    //接收indexController力传过来的url，push到router里改变浏览器url
     router.push(context.url)
+
     router.onReady(() => {
-      console.log(88888);
+
       const matchedComponents = router.getMatchedComponents()
       if (!matchedComponents.length) {
         return reject({ code: 404 })
       }
-      // 对所有匹配的路由组件调用 `asyncData()`
+      /**
+       * 对所有匹配的路由组件调用 `asyncData()`
+       * 这里是针对ssr的时候 页面有异步请求的，asyncData 参考item.vue
+       */
       Promise.all(matchedComponents.map(Component => {
-        console.log(9999);
+
         if (Component.asyncData) {
           return Component.asyncData({
             store,
