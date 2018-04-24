@@ -5,7 +5,7 @@ import * as getters from './getters.js'
 Vue.use(Vuex)
 
 const defaultState = {
-  user: {}
+  users: []
 }
 
 const inBrowser = typeof window !== 'undefined';
@@ -17,8 +17,8 @@ if (!inBrowser || process.env.NODE_ENV == "development") {
 const state = (inBrowser && window.__INITIAL_STATE__) || defaultState
 
 const mutations = {
-  GET_USER: (state, user) => {
-      state.user = user
+  GET_USERS: (state, users) => {
+      state.users = users
   },
 
 }

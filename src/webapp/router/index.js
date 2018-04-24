@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import app from '../App.vue';
 import item from '../components/Item.vue';
 import home from '../components/Home.vue';
+import index from '../components/Index.vue';
 
 Vue.use(Router)
 export function createRouter () {
@@ -10,7 +11,8 @@ export function createRouter () {
     mode: 'history',
     base: __dirname,
     routes: [
-      { path: '/index', component: app },
+      { path: '/', component: home },
+      { path: '/index', component: index },
       { path: '/home', component: home },
       { path: '/item', component: item }
     ]

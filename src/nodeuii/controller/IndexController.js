@@ -21,8 +21,10 @@ function createRenderer(bundle, template, clientManifest) {
     })
 }
 
+@route('/')
 @route('/index')
 @route('/home')
+@route('/item')
 class IndexController {
 
     constructor({
@@ -54,8 +56,6 @@ class IndexController {
         function createSsrStreamPromise() {
 
             return new Promise((resolve, reject) => {
-                console.log(11111);
-                console.log(context);
                 if (!renderer) {
                     return ctx.body = 'waiting for compilation.. refresh in a moment.'
                 }
@@ -70,15 +70,6 @@ class IndexController {
                 }).pipe(ctx.res);
             });
         }
-
-
-        // 这里无需传入一个应用程序，因为在执行 bundle 时已经自动创建过。
-        // // 现在我们的服务器与应用程序已经解耦！
-        // renderer.renderToString(context, (err, html) => {
-        //     console.log(html);
-        //     // 处理异常……
-        //     ctx.body = html;
-        // })
 
         await createSsrStreamPromise();
     }

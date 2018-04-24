@@ -1,27 +1,26 @@
 <template>
-<div id="app">
-  <nav>
-      <ul>
-          <ol><router-link to="/index" exact>一只小绵羊🐑</router-link></ol>
-          <ol><router-link to="/home">一条小蛇🐍</router-link></ol>
-          <ol><router-link to="/user/11">一个大灰狼🐺</router-link></ol>
-      </ul>
-  </nav>
-  <router-view class="view"></router-view>
-  </div>
+    <div id="app">
+        <h4>喂，动物园吗？🐱</h4>
+        <nav>
+            <ul>
+                <ol><router-link to="/home" exact>一条小蛇🐍</router-link></ol>
+                <ol><router-link to="/index">一只小绵羊🐑</router-link></ol>
+                <ol><router-link to="/item">一个大灰狼🐺</router-link></ol>
+            </ul>
+        </nav>
+        <router-view class="view"></router-view>
+    </div>
 </template>
 
 <script>
-export default {
-  
-}
+export default {};
 </script>
 
 <style>
-    ul > ol {
-        font-size: 28px;
-        color: darksalmon
-    }
+ul > ol {
+  font-size: 28px;
+  color: darksalmon;
+}
 </style>
 
 
