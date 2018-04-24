@@ -2,9 +2,9 @@
 
 todoList：
 - rize测试
-- ssr中的异步请求
-- 页面美化。。。
-- postcss cssnext
+- ssr中的异步请求(done)
+- 页面美化。。。(持续更新)
+- postcss cssnext(done)
 - 还有若干欢迎补充
 
 
@@ -19,4 +19,4 @@ todoList：
 #### npm run start:dev
 > 启动服务，使用的是8081端口，如有错误看看端口是否被占用
 
-#### 访问http://localhost:8081/index
+#### 访问http://localhost:8081
