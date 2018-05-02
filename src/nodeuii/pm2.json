@@ -1,5 +1,5 @@
 {
-    "name"      : "ydapp",
+    "name"      : "growup",
     "script"    : "app.js",
     "out_file" : "logs/pm2/out.log",
     "error_file" : "logs/pm2/error.log",

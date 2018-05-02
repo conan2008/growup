@@ -40,7 +40,10 @@ let webpackConfig = {
     },
     resolve: {
         extensions: [".vue", ".js", ".es", ".css"]
-    }
+    },
+    plugins: [
+        new ExtractTextPlugin('styles/[name].css')
+    ]
 }
 
 module.exports = webpackConfig;
