@@ -2,7 +2,8 @@ const path = require('path');
 const webpack = require('webpack');
 const merge = require('webpack-merge')
 const nodeExternals = require('webpack-node-externals')
-const baseConfig = require('../webpack.config')
+console.log("process.env.NODE_ENV", process.env.NODE_ENV);
+const baseConfig = process.env.NODE_ENV == "development" ? require('../webpack.dev') : require('../webpack.prod');
 const VueSSRServerPlugin = require('vue-server-renderer/server-plugin')
 
 const rootPath = path.join(__dirname, '..');

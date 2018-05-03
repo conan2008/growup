@@ -1,5 +1,6 @@
-const argv = require('yargs-parser')(process.argv.slice(2));
+
 const glob = require('glob');
+const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const htmlAfterWebpackPlugin = require('./config/html-after-webpack-plugin');
@@ -42,7 +43,22 @@ let webpackConfig = {
         extensions: [".vue", ".js", ".es", ".css"]
     },
     plugins: [
-        new ExtractTextPlugin('styles/[name].css')
+        //webpack必备代码
+        new webpack.optimize.CommonsChunkPlugin({
+            name: 'manifest',
+            minify: {
+                collapseWhitespace: true
+            },
+            filename: 'scripts/[name].[hash:5].js',
+            minChunks: Infinity,
+            chunks: ['common']
+        }),
+        new ExtractTextPlugin('styles/[name].css'),
+        new HtmlWebpackPlugin({
+            filename: 'index.html',
+            template: 'src/webapp/index.html',
+            inject: false
+        })
     ]
 }
 

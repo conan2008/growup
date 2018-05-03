@@ -5,17 +5,22 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build:dev": "npm run server:dev && npm run client:dev && gulp",
+    "server:dev": "cross-env NODE_ENV=development webpack --config config/webpack.server.config.js",
+    "client:dev": "cross-env NODE_ENV=development webpack --config config/webpack.client.config.js",
+    "start:dev": "cross-env NODE_ENV=development node ./dist/app.js",
+    "build": "npm run server && npm run client && npm run nodeuii",
+    "server": "cross-env NODE_ENV=production webpack --config config/webpack.server.config.js",
+    "client": "cross-env NODE_ENV=production webpack --config config/webpack.client.config.js",
+    "nodeuii": "cross-env NODE_ENV=production gulp",
     "start": "pm2 start ./dist/pm2.json",
-    "build:dev": "webpack --mode development --module-bind js=babel-loader",
-    "build:prod": "webpack --mode production --module-bind js=babel-loader",
     "service:dev": "gulp",
     "service:prod": "cross-env NODE_ENV=production gulp",
     "service": "mocha ./test/service/mochaRunner.js",
     "service:e2e": "node ./test/e2e/index.js",
-    "build": "npm run server:dev && npm run client:dev",
-    "start:dev": "cross-env NODE_ENV=development node ./dist/app.js",
-    "server:dev": "webpack --config config/webpack.server.config.js",
-    "client:dev": "webpack --config config/webpack.client.config.js"
+    "clean": "rm -rf ./dist",
+    "prebuild": "npm run clean",
+    "prebuild:dev": "npm run clean"
   },
   "repository": {
     "type": "git",

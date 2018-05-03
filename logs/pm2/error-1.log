@@ -1,0 +1,2002 @@
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
+Error: Cannot find module '/Users/zhangyuan/Desktop/work/gitRepertory/growup/dist/app.js'
+    at Function.Module._resolveFilename (module.js:538:15)
+    at Function.Module._load (module.js:468:25)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:331:23
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:473:16
+    at next (/usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:5315:29)
+    at /usr/local/lib/node_modules/pm2/node_modules/_async@2.6.0@async/dist/async.js:958:16
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:172:13)
+    at emitOne (events.js:116:13)
+    at WriteStream.emit (events.js:211:7)
+    at fs.open (fs.js:2153:10)
